@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Joshi</h1>
-<h3 align="center">M.Tech Student at IIT Kharagpur, India working on skills on Web Development and AI/ML</h3>
+<h1 align="center">Hi, I'm Vaibhav Joshi</h1>
+<h3 align="center">A M.Tech Student at IIT Kharagpur working on skills for Web Development and AI/ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphaa-particle&label=Profile%20views&color=0e75b6&style=flat" alt="alphaa-particle" /> </p>
 
